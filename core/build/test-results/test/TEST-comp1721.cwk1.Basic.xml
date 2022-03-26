@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="comp1721.cwk1.Basic" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-03-04T23:06:04" hostname="DESKTOP-RSTOE79" time="0.039">
+  <properties/>
+  <testcase name="Records can be retrieved correctly given their index" classname="comp1721.cwk1.Basic" time="0.003"/>
+  <testcase name="Correct format for string conversion" classname="comp1721.cwk1.Basic" time="0.001"/>
+  <testcase name="Daily case totals computed correctly" classname="comp1721.cwk1.Basic" time="0.002"/>
+  <testcase name="staffCases field set up correctly" classname="comp1721.cwk1.Basic" time="0.002"/>
+  <testcase name="DataException thrown for invalid case counts" classname="comp1721.cwk1.Basic" time="0.004"/>
+  <testcase name="date field set up correctly" classname="comp1721.cwk1.Basic" time="0.002"/>
+  <testcase name="otherCases field set up correctly" classname="comp1721.cwk1.Basic" time="0.001"/>
+  <testcase name="Records can be added to a dataset" classname="comp1721.cwk1.Basic" time="0.002"/>
+  <testcase name="Records can be found by date" classname="comp1721.cwk1.Basic" time="0.003"/>
+  <testcase name="studentCases field set up correctly" classname="comp1721.cwk1.Basic" time="0.002"/>
+  <testcase name="DataException if using invalid index to retrieve a record" classname="comp1721.cwk1.Basic" time="0.003"/>
+  <testcase name="Dataset is initially empty" classname="comp1721.cwk1.Basic" time="0.001"/>
+  <testcase name="DataException if no record found for required date" classname="comp1721.cwk1.Basic" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
